@@ -1,4 +1,4 @@
-# Оформления html кода
+# Оформление html кода
 
 1. Верстка 
     1. В html не оставляем пустых строк между блоками  
@@ -24,11 +24,7 @@
             </div>
        
             <?php if ($category): ?>
-                <?= str_replace(
-                    $category->name,
-                    '<span style="color:#000">' . $category->name . '</span>',
-                    $category->path
-                ) ?>
+                <?= $category->name ?>
             <?php else: ?>
                 <div class="text-danger">
                     Категория не указана
