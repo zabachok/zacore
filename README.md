@@ -10,3 +10,4 @@ zabachok's coding recommendations
 
 * [Трактат о валидаторах](validators.md)
 * [Оформления html кода](html.md)
+* [Манускрипт об именовании](codestyle-php.md)
