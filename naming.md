@@ -1,4 +1,4 @@
-# Манускрипт об именовании
+# Именвоания
 
 ## Следуй CRUD
 
@@ -13,6 +13,5 @@
 
 При создании нового класса или метода сначала указываем действие (Create/Delete/Set), потом название объекта, с которым работаем (Product/Task/Order)  
 Пример:  
-CreateTaskForm
-DeleteProductService
-dded
+- CreateTaskForm
+- DeleteProductService

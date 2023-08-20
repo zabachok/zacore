@@ -8,7 +8,11 @@ zabachok's coding recommendations
 Все описанные здесь рекомендации являются моим личным мнением. Я всегда готов вступить 
 в обсуждение каждого пункта, если вы имеете отличное от моего мнение.
 
-* [Трактат о валидаторах](validators.md)
+## Статьи
+* [Роутинг](routing.md)
+* [Именование](naming.md)
+* [Валидация](validation.md)
+
+Frontend
 * [Оформления html кода](html.md)
-* [Манускрипт об именовании](codestyle-php.md)
 * [Vue template style rules](vue-template.md)
